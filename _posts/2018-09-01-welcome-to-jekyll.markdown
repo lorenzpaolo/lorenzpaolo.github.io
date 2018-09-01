@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "SAP Cloud Platform"
 date:   2018-09-01 12:23:32 +0000
 categories: jekyll update
 ---
@@ -18,8 +18,6 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out my prototype [SAP Cloud Platform].
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[SAP Cloud Platform]: https://flpportal-p2000472024trial.dispatcher.hanatrial.ondemand.com/sites?siteId=266c9cf3-1a44-4f6e-af0c-b8be4f8dbd9b&evictCache=true#page1-Display
